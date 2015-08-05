@@ -1,5 +1,5 @@
 # image-diff [![Build status](https://travis-ci.org/uber/image-diff.png?branch=master)](https://travis-ci.org/uber/image-diff)
-
+   
 Create image differential between two images
 
 This was created as part of a [visual regression][] project.
